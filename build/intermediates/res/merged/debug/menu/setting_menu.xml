@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/version_info"
-        android:title="@string/verion_info"
-        android:showAsAction="never"
-        android:icon="@drawable/menu_verion_info_icon"/>
-</menu>

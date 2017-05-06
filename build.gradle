@@ -107,15 +107,5 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:25.+'
-    compile 'com.google.code.gson:gson:2.2.4'
-    compile 'com.pekall.lib.mdm:SandboxSDK:1.0.13'
-    compile 'com.pekall.lib.mdm:mdm-common-lib:1.0.3'
-    //compile 'com.pekall.baidu.location:locSDK:3.3' //老的百度地图 api 不用了，屏蔽 20140929
-    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.1'
-    compile 'com.googlecode.plist:dd-plist:1.3'
-    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.1'
-    compile 'com.pekall.pcp:pcp-plist-parser:1.1.3'
-    compile 'com.google.guava:guava:12.0'
-    compile 'com.pekall.lib.mdm:SandboxSDK:1.0.13'
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+//    compile 'com.google.code.gson:gson:2.2.4'
 }
