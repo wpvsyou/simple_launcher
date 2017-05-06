@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/register_launcher_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RegisterLauncherActivity" >
+
+    <LinearLayout
+        android:id="@+id/layout_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginBottom="20dp" >
+
+        <TextView
+            android:id="@+id/text_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/force_register_launcher_tips"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="1px"
+            android:background="@drawable/launcher_regist_bg"
+            android:textSize="20sp"
+            android:textColor="#676767"
+            android:paddingLeft="13dp"
+            />
+        <TextView
+            android:id="@+id/text_remarks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/force_register_launcher_tips2"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/launcher_regist_bg"
+            android:textSize="14sp"
+            android:textColor="#676767"
+            android:paddingLeft="13dp"
+            android:visibility="invisible"
+            />
+
+        <Button
+            android:id="@+id/btn_register_set"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/force_register_launcher_step1_set"
+            android:background="@drawable/launcher_regist_pressed_btn_bg"
+            android:layout_marginBottom="10dp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#FFFFFF"
+            />
+    </LinearLayout>
+
+</LinearLayout>

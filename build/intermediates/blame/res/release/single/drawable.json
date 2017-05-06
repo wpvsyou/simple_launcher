@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\wallpaper_gallery_background.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\wallpaper_gallery_background.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\all_apps_button_icon.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\all_apps_button_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\focusable_view_bg.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\focusable_view_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\tab_widget_indicator_selector.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\tab_widget_indicator_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\remove_target_selector.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\remove_target_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\wallpaper_gallery_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\wallpaper_gallery_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\uninstall_target_selector.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\uninstall_target_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\cling_button_bg.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\cling_button_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\welcome.jpg",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\flying_icon_bg.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\flying_icon_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\info_target_selector.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\info_target_selector.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable\\time_bg.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable\\time_bg.9.png"
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_force_register_launcher.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_force_register_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wm_location_log.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_wm_location_log.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\register_launcher_action_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\register_launcher_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_chooser.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\wallpaper_chooser.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\applist_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\applist_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_pane.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\apps_customize_pane.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\contact_title.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\contact_title.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_launcher.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_register_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\guild_page_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\guild_page_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_progressbar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\apps_customize_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\contact_action_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\contact_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\setting_switch_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\setting_switch_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\setting_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\setting_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location_log.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_location_log.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\set_launcher_tip_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\set_launcher_tip_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\workspace_screen.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\workspace_screen.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\appwidget_error.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\appwidget_error.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adjust_location_time.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_adjust_location_time.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\wallpaper_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\set_launcher_tip_layout2.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\set_launcher_tip_layout2.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\keyguard_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\keyguard_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\contact_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\contact_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\scroll_indicator.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\scroll_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_container.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_container.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\setting_action_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\setting_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\drop_target_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\drop_target_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\update_view_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\update_view_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\set_launcher_tip_layout_scale2.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\set_launcher_tip_layout_scale2.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\workspace_divider.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\workspace_divider.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\applist_item_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\applist_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\wallpaper_chooser_base.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\wallpaper_chooser_base.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\add_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_debug.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\user_folder.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\user_folder.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\setting_title_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\setting_title_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\provider_main.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\provider_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_require_usage_setting.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_require_usage_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\call_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\call_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\rename_folder.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\rename_folder.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\force_register_launcher_action_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\force_register_launcher_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\qsb_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\qsb_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\emergency_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\emergency_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\market_button.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\market_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\clear_default_tip_layout.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\clear_default_tip_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\set_launcher_tip_layout_scale.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\set_launcher_tip_layout_scale.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\applist_action_bar.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\applist_action_bar.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\tab_widget_indicator.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\tab_widget_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\setting_normal_item.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\setting_normal_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_launcher2.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\activity_register_launcher2.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\apps_customize_widget.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\apps_customize_widget.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\layout\\emergency_title.xml",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\layout\\emergency_title.xml"
+    }
+]

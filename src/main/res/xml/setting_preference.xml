@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_height="wrap_content"
+                  android:layout_width="fill_parent">
+
+    <PreferenceCategory
+        android:title="@string/setting_network_title"
+        android:key="pref_key_network_setting">
+
+        <com.pekall.emdm.pcpchild.setting.OptSwitchPreference
+            android:title="@string/wifi_setting"
+            android:key="pref_key_wifi_setting"/>
+
+        <com.pekall.emdm.pcpchild.setting.OptSwitchPreference
+            android:title="@string/bluetooth_setting"
+            android:key="pref_key_bluetooth_setting"/>
+
+        <com.pekall.emdm.pcpchild.setting.OptSwitchPreference
+            android:title="@string/mobile_network_setting"
+            android:key="pref_key_mobile_network_setting"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/setting_persona_title"
+        android:key="pref_key_persona_setting">
+
+        <Preference
+            android:key="pref_key_sound_setting"
+            android:title="@string/sound_setting"/>
+
+
+        <!-- Preference
+            android:key="pref_key_ringstone_setting"
+            android:title="@string/ringstone_setting" / -->
+
+        <Preference
+            android:key="pref_key_alarm_setting"
+            android:title="@string/alarm_setting"/>
+        <Preference
+            android:key="pref_key_display_setting"
+            android:title="@string/display_setting"/>
+        <Preference
+            android:key="pref_key_lang_keyboard_setting"
+            android:title="@string/lang_keyboard_setting"/>
+        <Preference
+            android:key="pref_key_pwd_setting"
+            android:title="@string/pwd_setting"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/setting_system_title"
+        android:key="pref_key_system_setting">
+
+        <Preference
+            android:key="pref_key_call_setting"
+            android:title="@string/call_setting"/>
+
+        <Preference
+            android:key="pref_key_app_setting"
+            android:title="@string/app_setting"/>
+
+        <Preference
+            android:key="pref_key_about_setting"
+            android:title="@string/about_setting"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

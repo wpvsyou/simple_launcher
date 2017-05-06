@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyguard_bg.jpg",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-hdpi\\keyguard_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\bg_cling1.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\bg_cling1.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\workspace_bg.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\hotseat_track_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\divider_launcher_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\divider_launcher_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\ic_home_voice_search_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\bg_cling2.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\bg_cling2.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\release\\drawable-land-mdpi\\bg_cling3.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-land-mdpi\\bg_cling3.png"
+    }
+]

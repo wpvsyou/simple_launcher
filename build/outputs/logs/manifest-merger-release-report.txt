@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:20:1-194:12
+	package
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:21:11-45
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:23:22-66
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:26:22-63
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:27:22-68
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:28:5-84
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:28:22-82
+uses-permission#com.android.launcher.permission.WRITE_SETTINGS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:29:5-85
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:29:22-83
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:33:5-74
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:33:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:37:5-78
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:38:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:39:5-78
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:40:5-75
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:40:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:42:5-80
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:42:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:43:5-66
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:43:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:44:5-83
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:44:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:45:5-67
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:45:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:50:5-71
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:50:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:51:5-72
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:51:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:53:5-77
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:53:22-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:55:5-67
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:55:22-65
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:57:5-59:59
+	xmlns:tools
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:57:22-68
+	tools:ignore
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:59:22-57
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:58:22-75
+application
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:61:5-192:19
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.pekall.lib.mdm:mdm-common-lib:1.0.3] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.pekall.lib.mdm\mdm-common-lib\1.0.3\AndroidManifest.xml:4:5-5:19
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:65:9-41
+	android:supportsRtl
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:66:9-35
+	android:allowBackup
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:63:9-35
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:64:9-45
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:62:9-68
+activity#com.pekall.emdm.launcher.Launcher
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:68:9-81:20
+	android:clearTaskOnLaunch
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:70:13-45
+	android:screenOrientation
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:73:13-49
+	android:stateNotNeeded
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:74:13-42
+	android:launchMode
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:72:13-44
+	android:windowSoftInputMode
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:76:13-52
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:71:13-42
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:75:13-41
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:69:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:77:13-80:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:78:17-68
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:78:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:79:27-74
+activity#com.pekall.emdm.launcher.RocketLauncher
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:99:9-109:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:101:13-47
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:102:13-77
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:100:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.DREAM
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:103:13-108:29
+category#android.intent.category.DEFAULT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:106:17-75
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:106:27-73
+category#android.intent.category.DREAM
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:107:27-71
+receiver#com.pekall.emdm.launcher.PreloadReceiver
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:112:9-118:20
+	android:permission
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:114:13-83
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:113:13-68
+intent-filter#com.android.launcher.action.PRELOAD_WORKSPACE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:115:13-117:29
+action#com.android.launcher.action.PRELOAD_WORKSPACE
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:116:17-87
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:116:25-85
+receiver#com.pekall.emdm.launcher.InstallShortcutReceiver
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:121:9-127:20
+	android:permission
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:123:13-82
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:122:13-76
+intent-filter#com.android.launcher.action.INSTALL_SHORTCUT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:124:13-126:29
+action#com.android.launcher.action.INSTALL_SHORTCUT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:125:17-86
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:125:25-84
+receiver#com.pekall.emdm.launcher.UninstallShortcutReceiver
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:130:9-136:20
+	android:permission
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:132:13-84
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:131:13-78
+intent-filter#com.android.launcher.action.UNINSTALL_SHORTCUT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:133:13-135:29
+action#com.android.launcher.action.UNINSTALL_SHORTCUT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:134:17-88
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:134:25-86
+provider#com.pekall.emdm.launcher.LauncherProvider
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:139:9-143:91
+	android:readPermission
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:142:13-87
+	android:authorities
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:141:13-68
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:140:13-69
+	android:writePermission
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:143:13-89
+meta-data#android.nfc.disable_beam_default
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:145:9-147:35
+	android:value
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:147:13-33
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:146:13-60
+activity#com.pekall.emdm.launcher.hotseatcheat.PhoneCheatActivity
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:150:9-162:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:153:13-48
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:152:13-48
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:155:13-55
+	android:taskAffinity
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:154:13-54
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:151:13-84
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+pcp.child.action.ACTION_HOTSEAT_CHEAT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:156:13-161:29
+action#pcp.child.action.ACTION_HOTSEAT_CHEAT
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:158:17-79
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:158:25-77
+activity#com.pekall.emdm.launcher.hotseatcheat.ContactsCheatActivity
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:164:9-176:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:167:13-50
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:166:13-51
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:169:13-55
+	android:taskAffinity
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:168:13-57
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:165:13-87
+activity#com.pekall.emdm.launcher.hotseatcheat.MessageCheatActivity
+ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:178:9-190:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:181:13-50
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:180:13-50
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:183:13-55
+	android:taskAffinity
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:182:13-56
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml:179:13-86
+uses-sdk
+INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.pekall.lib.mdm:mdm-common-lib:1.0.3] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.pekall.lib.mdm\mdm-common-lib\1.0.3\AndroidManifest.xml:2:5-72
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.1\AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] D:\Android\AndroidStudioProjects\DemoAioProject\simple_launcher\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\AndroidManifest.xml:26:9-47

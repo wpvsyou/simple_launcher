@@ -1,0 +1,121 @@
+apply plugin: 'com.android.application'
+
+buildscript {
+    repositories {
+        maven {
+            url 'http://maven.aliyun.com/nexus/content/groups/public'
+        }
+        /*maven {
+            url "http://192.168.10.224:8081/nexus/content/groups/public"
+        }*/
+
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+    }
+}
+
+repositories {
+    maven {
+        url 'http://maven.aliyun.com/nexus/content/groups/public'
+    }
+    maven {
+        url "http://192.168.10.224:8081/nexus/content/groups/public"
+    }
+
+    /*flatDir{
+        dirs 'libs/aar'
+    }*/
+//    mavenLocal()
+}
+version '1.0.1'
+// zjipst phase 3 versionCode start from 200 to 299 to remain some room enough for
+// phase 2 to update
+// phase 5 version code start from 300 to 399
+def vc = 1
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId 'com.pekall.emdm.launcher'
+        versionCode vc
+        versionName version
+        minSdkVersion 16
+        targetSdkVersion 25
+    }
+
+    sourceSets {
+        main {
+            jni.srcDirs = []
+            aidl {
+                srcDir 'src/android'
+            }
+        }
+    }
+
+    lintOptions {
+        // set to true to turn off analysis progress reporting by lint
+        quiet true
+        // if true, stop the gradle build if errors are found
+        abortOnError false
+        // if true, only report errors
+        ignoreWarnings true
+        // if true, emit full/absolute paths to files with errors (true by default)
+        //absolutePaths true
+        // if true, check all issues, including those that are off by default
+        checkAllWarnings true
+        // if true, treat all warnings as errors
+        warningsAsErrors true
+        // turn off checking the given issue id's
+        disable 'TypographyFractions', 'TypographyQuotes'
+        // turn on the given issue id's
+        enable 'RtlHardcoded', 'RtlCompat', 'RtlEnabled'
+        // check *only* the given issue id's
+        check 'NewApi', 'InlinedApi'
+        // if true, don't include source code lines in the error output
+        noLines true
+        // if true, show all locations for an error, do not truncate lists, etc.
+        showAll true
+        // Fallback lint configuration (default severities, etc.)
+        lintConfig file("default-lint.xml")
+        // if true, generate a text report of issues (false by default)
+        textReport true
+        // location to write the output; can be a file or 'stdout'
+        textOutput 'stdout'
+        // if true, generate an XML report for use by for example Jenkins
+        xmlReport true
+        // file to write report to (if not specified, defaults to lint-results.xml)
+        xmlOutput file("lint-report.xml")
+        // if true, generate an HTML report (with issue explanations,  sourcecode, etc)
+        htmlReport false
+        htmlOutput file("lint-report.html")
+    }
+
+    buildTypes {
+        release {
+            debuggable true
+            jniDebuggable true
+        }
+        debug {
+            debuggable true
+            jniDebuggable true
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.+'
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.pekall.lib.mdm:SandboxSDK:1.0.13'
+    compile 'com.pekall.lib.mdm:mdm-common-lib:1.0.3'
+    //compile 'com.pekall.baidu.location:locSDK:3.3' //老的百度地图 api 不用了，屏蔽 20140929
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.1'
+    compile 'com.googlecode.plist:dd-plist:1.3'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.1'
+    compile 'com.pekall.pcp:pcp-plist-parser:1.1.3'
+    compile 'com.google.guava:guava:12.0'
+    compile 'com.pekall.lib.mdm:SandboxSDK:1.0.13'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}

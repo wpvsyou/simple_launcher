@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome">
+
+    <TextView android:text="关于成长守护"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="#DDDDDD"
+        android:textColor="#000000"
+        android:textSize="22sp"
+        />
+
+    <Button
+        android:id="@+id/btnLeftTop"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentLeft="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <Button
+        android:id="@+id/btnRightTop"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentRight="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <Button
+        android:id="@+id/btnLeftBottom"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <Button
+        android:id="@+id/btnRightBottom"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="版本："
+        android:id="@+id/tvVersionName"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="家长账号："
+        android:id="@+id/tvAccount"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/tvVersionName"/>
+</RelativeLayout>

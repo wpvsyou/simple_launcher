@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 65,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 60,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 528,
+                        "endColumn": 60,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endColumn": 66,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 66,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 70,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 70,
+                        "endOffset": 523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 64,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 64,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 66,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 66,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 53,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 64,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 64,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 69,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 69,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 79,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 79,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 65,
+                    "endOffset": 782
+                },
+                "from": {
+                    "file": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\values-sw360dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 65,
+                        "endOffset": 386
+                    }
+                }
+            }
+        ]
+    }
+]

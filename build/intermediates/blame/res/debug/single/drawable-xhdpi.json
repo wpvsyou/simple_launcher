@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flying_icon_bg_pressed.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\flying_icon_bg_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_cling1.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\bg_cling1.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_arrow_left.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\icon_arrow_left.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_resize_handle_right.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_resize_handle_right.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\homescreen_blue_normal_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\homescreen_blue_normal_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launcher_regist_pressed_btn_bg.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\launcher_regist_pressed_btn_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_container_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_container_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\homescreen_blue_strong_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\homescreen_blue_strong_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\divider_launcher_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\divider_launcher_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_cling2.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\bg_cling2.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home_voice_search_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_home_voice_search_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grid_selected.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\grid_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_home.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_home.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_info_active_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_info_active_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cling.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\cling.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keyguard_info.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\keyguard_info.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\workspace_bg.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\workspace_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_cancel.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\icon_cancel.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_trashcan_active_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_trashcan_active_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\paged_view_indicator.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\paged_view_indicator.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home_search_normal_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_home_search_normal_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\home_press.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\home_press.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_setting.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_clear_normal_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_clear_normal_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page_hover_left_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\page_hover_left_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_contacts.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\icon_contacts.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launcher_regist_default_miui_tips.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\launcher_regist_default_miui_tips.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launcher_regist_default_tips.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\launcher_regist_default_tips.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grid_focused.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\grid_focused.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_cling3.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\bg_cling3.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\line_divider.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\line_divider.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_resize_handle_left.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_resize_handle_left.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\emergency_contact_button.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\emergency_contact_button.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_cling4.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\bg_cling4.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\portal_ring_outer_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\portal_ring_outer_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\portal_container_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\portal_container_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launcher_regist_normal_btn_bg.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\launcher_regist_normal_btn_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_wallpaper.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_wallpaper.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cling_normal.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\btn_cling_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\call_button.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\call_button.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_resize_handle_top.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_resize_handle_top.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_application.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_application.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uninstall_button.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\uninstall_button.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\step_2.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\step_2.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_trashcan_normal_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_trashcan_normal_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cling_pressed.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\btn_cling_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_pressed_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_allapps_pressed.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_allapps_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\search_frame.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\search_frame.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\replay.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\replay.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_message.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\icon_message.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\portal_ring_inner_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\portal_ring_inner_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_focused_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hand.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\hand.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_pressed_focused_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_clear_active_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_clear_active_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_appwidget_error.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\bg_appwidget_error.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_pressed_focused_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hotseat_scrubber_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\hotseat_scrubber_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\step_1.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\step_1.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\apps_customize_bg.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\apps_customize_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\portal_ring_inner_nolip_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\portal_ring_inner_nolip_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_info_normal_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_info_normal_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\launcher_regist_bg.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\launcher_regist_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_widget_preview_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\default_widget_preview_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_allapps.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_allapps.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_focused_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\grid_pressed.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\grid_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home_all_apps_holo_dark.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_home_all_apps_holo_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\focused_bg.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\focused_bg.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_resize_handle_bottom.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_resize_handle_bottom.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cancel_default_launcher.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\cancel_default_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\portal_ring_rest.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\portal_ring_rest.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\hotseat_track_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\hotseat_track_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\overscroll_glow_right.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\overscroll_glow_right.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_preview_tile.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_preview_tile.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher_market_holo.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\ic_launcher_market_holo.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\overscroll_glow_left.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\overscroll_glow_left.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_phone.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\icon_phone.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\widget_resize_frame_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\widget_resize_frame_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\page_hover_right_holo.9.png",
+        "source": "D:\\Android\\AndroidStudioProjects\\DemoAioProject\\simple_launcher\\src\\main\\res\\drawable-xhdpi\\page_hover_right_holo.9.png"
+    }
+]

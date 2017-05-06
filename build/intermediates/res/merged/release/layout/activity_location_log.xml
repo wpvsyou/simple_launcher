@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:id="@+id/tvGeoFenceInfo" android:textSize="16sp" android:background="#e27d13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="等待第一次定位结果中。。。"
+            />
+    <ScrollView android:id="@+id/svLog" android:layout_weight="9" android:background="#CCCCCC"
+        android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:id="@+id/tvLog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请等待..."
+        />
+    </ScrollView>
+    <LinearLayout android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#B3B34D"
+        >
+        <Button android:id="@+id/btnClearLog" android:text="清空日志" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" />
+        <CheckBox
+            android:id="@+id/chkAutoScroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="自动滚动"
+            android:layout_weight="1"
+            android:checked="true"
+            />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/keyguard_bg">
+
+    <Button
+        android:id="@+id/btnLeftTop"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentLeft="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <Button
+        android:id="@+id/btnRightTop"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentRight="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <Button
+        android:id="@+id/btnLeftBottom"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <Button
+        android:id="@+id/btnRightBottom"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="　　　　　　　"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:onClick="btnLeftTopOnClick"
+        android:background="#00dd7e6b"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/current_time_text_view_top_margin"
+        android:id="@+id/current_time_text_view"
+        android:textSize="@dimen/current_time_font_size"
+        android:textColor="@color/current_time_font_color"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/down_to_choose_phone_tip_text_view"
+        android:layout_below="@+id/current_time_text_view"
+        android:textColor="@color/current_time_font_color"
+        android:visibility="gone"
+        android:text="@string/down_to_choose_phone_tip"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/contact_button"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_marginBottom="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/current_monitor_time_rang_text_view"
+            android:textSize="@dimen/current_monitor_time_font_size"
+            android:textColor="@color/current_time_font_color"
+            android:background="@drawable/time_bg"
+            android:text="@string/current_monitor_time"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/keyguard_info"
+            android:id="@+id/keyguard_info_image_view"
+            android:layout_toRightOf="@+id/current_monitor_time_rang_text_view"
+            android:layout_marginLeft="-20dp"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/emergency_contact_button_bottom_margin"
+        android:id="@+id/contact_button"
+        android:paddingLeft="@dimen/emergency_contact_button_text_left_right_padding"
+        android:paddingRight="@dimen/emergency_contact_button_text_left_right_padding"
+        android:layout_centerHorizontal="true"
+        android:text="@string/emergency_contact"
+        android:textSize="@dimen/emergency_contact_button_text_size"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="@color/emergency_contact_button_text_color"
+        android:background="@drawable/emergency_contact_button"
+        />
+
+</RelativeLayout>
